@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently learning Full stack development at Zuri.
+I am available for connect...
 <!--
 **kennethafegbai/kennethafegbai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
