@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am available for connect...
+I am available for challenging projects...
 <!--
 **kennethafegbai/kennethafegbai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
